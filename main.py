@@ -27,16 +27,7 @@ def divide(num1,num2):
     total = num1 / num2
   return total
 
-
-
 operations = ["+","-","*","/"]
-
-# def add(num1,num2):
-#   print(add)
-# subtract = num1 - num2
-# multiply = num1 * num2
-# divide = num1 / num2
-# exponent = num1 ** num2
 
 for o in operations:
   if operation == "+":
